@@ -1,8 +1,7 @@
 # Todo list php
-this is a basic example a todo list project make with php
+This is a basic example a todo list project make with php
 
 ### Tech
-
 Dillinger uses a number of open source projects to work properly:
 
 * Twig - is a modern template engine for PHP
