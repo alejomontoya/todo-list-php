@@ -12,7 +12,7 @@ Dillinger uses a number of open source projects to work properly:
 
 ### Installation
 
-Dillinger requires [Comppser](https://getcomposer.org/) to run.
+Dillinger requires [Composer](https://getcomposer.org/) to run.
 
 Install the dependencies and devDependencies and start the server.
 
